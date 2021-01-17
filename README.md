@@ -1,5 +1,6 @@
 Python bindings for Optimal Reciprocal Collision Avoidance
 ==========================================================
+__This repository is forked from https://github.com/sybrenstuvel/Python-RVO2__
 
 This repository contains the RVO2 framework, as described below, along with
 [Cython](http://cython.org/)-based Python bindings. Its home is
